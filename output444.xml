@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CreditReportOutput>
+    <age_grp>35</age_grp>
+    <RBL_Age>35</RBL_Age>
+    <AgeInMonths>435</AgeInMonths>
+    <RBL_LRATIO_UNSEC_OVERDUE_BAL2>0.00009018</RBL_LRATIO_UNSEC_OVERDUE_BAL2>
+    <RBL_LRATIO_SEC_OVERDUE_BAL2>-9999</RBL_LRATIO_SEC_OVERDUE_BAL2>
+    <RBL_TW_CNT_LIVE>0</RBL_TW_CNT_LIVE>
+    <RBL_TOT_DISB_AMT>301162.0</RBL_TOT_DISB_AMT>
+    <RBL_util_card1>0.77473029</RBL_util_card1>
+    <RBL_MAX_DEL3_NDEL4_6>1</RBL_MAX_DEL3_NDEL4_6>
+    <RBL_CC_MAX_MOB>40</RBL_CC_MAX_MOB>
+    <RBL_UTIL_PL1>0.87548927</RBL_UTIL_PL1>
+    <RBL_PCT_DEL_9>0.16666667</RBL_PCT_DEL_9>
+    <RBL_HasOnly_PL>false</RBL_HasOnly_PL>
+    <RBL_CC_DISB_AMT_LV1>37262</RBL_CC_DISB_AMT_LV1>
+    <RBL_RATIO_UNSEC_OVERDUE_BAL2>0.00009018</RBL_RATIO_UNSEC_OVERDUE_BAL2>
+    <RBL_TotalSanctionedAmt>0</RBL_TotalSanctionedAmt>
+    <RBL_ReleventTrades_Status>false</RBL_ReleventTrades_Status>
+    <RBL_HasOnly_CC>true</RBL_HasOnly_CC>
+</CreditReportOutput>
